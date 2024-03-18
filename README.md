@@ -15,5 +15,5 @@ I'm a Software Engineering students with Altschool Africa currently working with
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=donfolayan&show_icons=true&include_all_commits=true&hide_border=true" alt="Donald GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donfolayan&langs_count=8&layout=compact&hide_border=true" alt="Donald's GitHub stats" /> |
+| [![Donald's GitHub stats](https://github-readme-stats.vercel.app/api?username=donfolayan)](https://github.com/donfolayan/github-readme-stats) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donfolayan&langs_count=8&layout=compact&hide_border=true" alt="Donald's GitHub stats" /> |
 | ------------- | ------------- |
