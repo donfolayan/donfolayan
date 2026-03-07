@@ -56,26 +56,6 @@ I also work with **WordPress** professionally, building custom plugins and comme
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛒 [Flowcart](https://github.com/donfolayan/flowcart) — E-Commerce Workflow System
-> Async-first FastAPI backend with idempotent order/payment pipelines, Stripe webhooks, and modular service architecture.
-> **15%+ checkout success rate improvement · Duplicate charges reduced to zero**
-
-### 🏠 [LeaseMatch](https://github.com/donfolayan/leasematch) — Property Platform
-> Production-grade auth system with JWT, Google OAuth2, Redis-backed OTP flows, Celery async tasks, and full test coverage.
-
-### 💳 [Django SaaS](https://github.com/donfolayan/django-saas) — Subscription Platform
-> Tiered Stripe billing, real-time subscription tracking, role-based access, multi-tenant PostgreSQL, Docker + CI/CD.
-
-### 🤖 [ML Recommendation Engine](https://github.com/donfolayan/ml-recommendation) — AI-Powered
-> Scalable inference pipeline with Pinecone vector search, TF-IDF, Flask REST API, and modular training notebooks.
-
-### 💬 [Gemini Clone](https://github.com/donfolayan/gemini-clone) — React AI Chat Interface
-> React 19 + Vite app replicating Google Gemini with real-time streaming, React Context state management, and responsive UI.
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
